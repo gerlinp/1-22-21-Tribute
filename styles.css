@@ -1,0 +1,27 @@
+body {
+    width:900px;
+    height:auto;
+    margin:0px auto;
+    position:relative;
+    margin-bottom: 100px;
+    background-color: gray;
+}
+
+main {
+  background-color: white;
+}
+div {
+    margin-top:115px;
+    background:none;
+}
+
+img {
+    text-align:center;
+    width:900px;
+    display:block;
+    margin:auto;
+    }
+
+main {
+  text-align: center;
+}

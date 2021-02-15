@@ -1,34 +1,15 @@
 body {
-    width:900px;
-    height:auto;
-    margin:0px auto;
-    position:relative;
-    margin-bottom: 100px;
-    background-color: LightSteelBlue;
+background: black;
+color: white;
 }
 
-#img-caption {
-  font-size: large;
-  margin-top: 50px;
+#title {
+  border: 5px solid white;
+  padding: 20px;
 }
-.image{
-  background-color: white;
-  padding-bottom: 50px;
-  padding-top: 50px;
-  margin: 0;
-}
-div {
-    margin-top:115px;
-    background:none;
-}
-
-img {
-    text-align:center;
-    width:900px;
-    display:block;
-    margin:auto;
-    }
 
 main {
-  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
